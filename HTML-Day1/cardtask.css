@@ -19,6 +19,7 @@ width: 820px;
 }
 
 
+
 .firstname{
 
     border: none;
@@ -32,6 +33,7 @@ width: 820px;
     font-size: 23px;
     font-family: 'Lobster', cursive;
     outline:none;
+    
     
    
    
@@ -197,6 +199,7 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: 10px;
 
 }
+
 
 .infoelts1{
     font-family: 'Roboto', sans-serif;

@@ -27,6 +27,7 @@ color:rgb(20, 20, 240);
 a:visited{
     color:black;
 }
+
 .nav li{
     display: inline-block;
     padding: 3.5rem;

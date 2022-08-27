@@ -12,6 +12,7 @@ display:inline-block;
 ul{
     font-size:2rem;
 }
+
 .nest{
     font-size:1.9rem;
     list-style-type: lower-alpha;
@@ -26,6 +27,7 @@ ul{
     
 }
 
+
 .google{
 
     color:blue;
@@ -36,6 +38,7 @@ ul{
     color: purple;
     
 }
+
 .google:hover{
     color:navy;
 }
@@ -46,6 +49,8 @@ ul{
     display: block;
     padding:5rem;
 }
+
+
 
 .field{
 
@@ -58,16 +63,21 @@ ul{
 .typeOfEmployee{
     font-size: 2rem;
 }
+
+
 .emp{
 
     font-size: 2rem;
 
 }
 
+
 .rad{
 
     margin-bottom: 1rem;
 }
+
+
 .task8{
     width: 65rem;
     height:50rem;
@@ -112,6 +122,7 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
 #football,#crkt{
     display: inline;
 }
@@ -121,11 +132,13 @@ input::-webkit-inner-spin-button {
     margin-bottom: 0.5rem;
 }
 
+
 .task1{
     width: 70rem;
     height:50rem;
     border: 1px solid black;
 }
+
 
 #imgsol{
 
